@@ -6,5 +6,4 @@ public class GitEx {
 		System.out.println("Hello! This is Github Practicing!");
 		//Github Practice!
 	}
-
 }
